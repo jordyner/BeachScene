@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="render_stuff.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="spline.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="data.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="render_stuff.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="spline.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="README.txt" />
+    <None Include="banner.frag">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="banner.vert">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="explosion.frag">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="explosion.vert">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="perVertex.frag">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="perVertex.vert">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="skybox.frag">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="skybox.vert">
+      <Filter>Shader</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Shader">
+      <UniqueIdentifier>{121bf6a6-8d54-40ec-83a7-c123f3a48e38}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header">
+      <UniqueIdentifier>{f36d55d2-cf1f-4558-b4b8-1ef8cd085662}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source">
+      <UniqueIdentifier>{686c5367-748e-48d6-8112-fdcb1b914fa8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,106 @@
+BOAT_VIEW_ANGLE index: 0
+5.0f
+CAMERA_VIEW_ANGLE index: 1
+2.0f
+BILLBOARD_SIZE index: 2
+0.1f
+BANNER_SIZE index: 3
+1.0f
+
+
+MISSILE_SPEED index: 4
+1.5f
+
+ASTEROID_SPEED_MAX index: 5
+0.5f
+SPACESHIP_SPEED_INCREMENT index: 6
+0.025f
+SPACESHIP_SPEED_MAX index: 7
+1.0f
+
+
+BOAT_SPEED_INCREMENT index: 8
+0.1f
+
+BOAT_SPEED_MAX index: 9
+3.0f
+SCENE_WIDTH index: 10
+1.0f
+
+SCENE_HEIGHT index: 11
+1.0f
+
+SCENE_DEPTH index: 12
+1.0f
+
+
+CAMERA_ELEVATION_MAX index: 13
+45.0f
+
+CAMERA_SIZE index: 14
+0.05f
+ISLAND_SIZE index: 15
+3.0f
+
+WATER_SIZE index: 16
+15.0f
+BEACH_UNBRELLA_SIZE index: 17
+0.10f
+PALM_SIZE index: 18
+0.22
+CHAIR_SIZE index: 19
+0.085
+BOAT_SIZE index: 20
+0.4f
+
+SECOND_BOAT_SIZE index: 21
+0.4f
+
+SECOND_BOAT_SPEED index: 22
+0.2f 
+CONE_SIZE index: 23
+0.1f
+DRONE_SIZE index: 24
+0.08f
+
+DRONE_SPEED index: 25
+0.8f
+
+
+LAMP_SIZE index: 26
+0.1f
+
+LIGHTHOUSE_SIZE index: 27
+0.7
+ISLAND POSITION X, Y,Z index: 28,29,30
+0.0f
+0.0f
+-1.15f
+LIGHTHOUSE POSITION X, Y,Z index: 31,32,33
+0.0
+-2.2
+-0.6
+LAMP POSITION X, Y,Z index: 34,35,36
+0.0f
+-1.8f
+-0.9f
+BOAT POSITION X, Y,Z index: 37,38,39
+0.2f
+3.0f
+-1.15f
+SECOND BOAT POSITION X, Y,Z index: 40,41,42
+0.0
+0.0
+-1.0
+DRONE BOAT POSITION X, Y,Z index: 43,44,45
+0.2f
+0.0f
+0.07f
+DRONE2 BOAT POSITION X, Y,Z index: 46,47,48
+0.1f
+0.4f
+0.07f
+CONE BOAT POSITION X, Y,Z index: 49,50,51
+0.2f
+0.f
+-0.9f
